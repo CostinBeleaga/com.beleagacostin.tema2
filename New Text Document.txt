@@ -1,0 +1,1 @@
+2 seafoare, cand unu permite trecerea, altu nu permite. le pornim manual... cica e la decizia noastra. tre sa avem 2 semafoare diferite, cand unu e pe verde clar celelalt e pe rosu. Ca ex. daca una trece de la nord la sud, cealalta de la est la vest sta
